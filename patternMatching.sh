@@ -50,7 +50,7 @@ echo ------------------PASSWORD CHECK-----------------------
                 fi
         done
 
-
+#Bash does not support lookaround expressions
 
 
 
